@@ -1,0 +1,24 @@
+body {
+    margin: 1;
+}
+
+.fonts {
+    font-family: 'Oswald', sans-serif;
+}
+
+.fonts1 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.centro {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+li {
+    background-color: #EEE;
+}
